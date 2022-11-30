@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Azim Harun</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">0172549846</string>
+    <string name="email_text">azimharun@yahoo.com</string>
+    <string name="share_text">jimmy@android.com</string>
+</resources>
